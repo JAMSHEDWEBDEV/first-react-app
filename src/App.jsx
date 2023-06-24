@@ -7,6 +7,7 @@ function Data(props){
   return (
     <div>
       <h1>{props.content}</h1>
+      <p>Description</p>
     </div>
   )
 }
